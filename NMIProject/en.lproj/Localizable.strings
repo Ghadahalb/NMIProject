@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  NMIProject
+
+  Created by Ghadah Albassam on 24/12/2023.
+  
+*/
+"Skip1" = "Skip";
+"Disc1" = "An App that helps parents who want to monitor their children's healthy growth by auto generating measurement results";
+"Disc2" = "Early detection of the child's normal development may provide a higher and faster chance of treatment comoaared to lat detection";
+"Start1" = "Start";
+
+
+"Type your child's age1" = "Type your child's age" ;
+"Age1" = "Age";
+"Type your child's weight1" = "Type your child's weight";
+"Weight1" = "Weight (kg)";
+"Type your child's height1" = "Type your child's height";
+"Height1" = "Height (cm)";
+"Show results1" = "Show results";
+
+
+
+
+//Safe
+"Your child's results are1" = "Your child's results are";
+"Safe1" = "Safe";
+
+
+//NotSafe
+
+"NotSafe1" = "Not Safe";
+"MOH1" = "Your child's growth is not healthy. Please contact the Ministry of Health and ask experts to monitor your child's healthy growth.";
+"MOH2" = "We advise you to contact the Ministry of Health";
+
+
+"Please enter valid values1" = "Please enter valid values.";
+"body mass index1" = "body mass index";
+"Normal1" = "Normal";
+"Abnormal1" = "Abnormal" ;
